@@ -1,0 +1,108 @@
+#wr{
+	width: 1649px;
+	margin: 0px auto;
+	background: #FFFFFF;
+}
+#left{
+	width: 576px;
+	height: 1403px;
+	float: left;
+	background: #252525
+}
+#right{
+	float: right;
+	width: 1073px;
+	height: 1403px;
+	background: #ded0b5;
+}
+#name{
+	color: #FFFFFF;
+	text-align: center;
+	
+}
+#name h1{
+	font-size: 60px;
+	margin: 30px;
+}
+#avatar{
+	 margin: 20px 50px;
+    
+    padding: 20px 70px;
+}
+#info {text-align: left;
+	color: #FFFFFF;
+	padding-left: 50px;
+}
+#info img{
+	margin-right: 10px;
+}
+#info ul li{margin-bottom: 5px;
+	line-height: 10px;
+}
+.tieude{border-bottom: thin solid #FFF;
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 20px;
+	    margin-top: 30px;
+	margin-bottom: 20px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	
+}
+#kynang{
+	color: #FFFFFF;
+	font-size: 20px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+#muctieu{
+	color: #FFFFFF;
+	font-size: 20px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	line-height: 40px;
+}
+.td2{color: #FFFFFF;
+	background: #000000;
+	width: 1021px;
+	height: 76px;
+	margin-top: 35px;
+    padding: 27px 20px;
+    font-size: 20px;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	letter-spacing: 10px;
+	
+}
+#hv{color: #000000;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	width: 1021px;
+	font-size: 30px;
+    padding: 20px;
+}
+
+#hv h3{text-align: left;}
+.tg{width: 390px;
+	float: right;
+	text-align: right;
+}
+
+.hv1{
+	width: 570px;
+    float: left;
+}
+#hd{color: #000000;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	width: 1021px;
+	font-size: 30px;
+    padding: 20px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
